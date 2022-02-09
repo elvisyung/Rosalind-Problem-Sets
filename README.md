@@ -1,1 +1,1 @@
-# Rosalind-Problem-Sets
+# Rosalind Problem Sets
